@@ -1,0 +1,10 @@
+C:\Users\Nicollas\source\repos\CampoMinado\bin\Debug\CampoMinado.exe.config
+C:\Users\Nicollas\source\repos\CampoMinado\bin\Debug\CampoMinado.exe
+C:\Users\Nicollas\source\repos\CampoMinado\bin\Debug\CampoMinado.pdb
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.csprojAssemblyReference.cache
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.Form1.resources
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.Properties.Resources.resources
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.csproj.GenerateResource.cache
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.exe
+C:\Users\Nicollas\source\repos\CampoMinado\obj\Debug\CampoMinado.pdb
